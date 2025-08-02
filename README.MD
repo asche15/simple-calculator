@@ -1,12 +1,12 @@
 # Simple Python Calculator
 
-This project contains a simple Python script (`welcome.py`) that performs basic arithmetic operations: addition, multiplication, and division.
+This project contains a simple Python script (`calculator.py`) that performs basic arithmetic operations: addition, multiplication, and division.
 
 ## How to Use
 
 1. Run the script using Python:
    ```
-   python welcome.py
+   python calculator.py
    ```
 2. Enter the first number when prompted.
 3. Enter the second number when prompted.
@@ -27,4 +27,4 @@ Enter the operation: add
 - Division by zero will cause an error.
 
 ## File
-- `welcome.py`: Main calculator script.
+- `calculator.py`: Main calculator script.
